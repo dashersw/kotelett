@@ -1,0 +1,28 @@
+{
+  "name": "kotelett",
+  "version": "0.0.1",
+  "description": "Simplest microservices ever.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashersw/kotelett.git"
+  },
+  "keywords": [
+    "microservices"
+  ],
+  "author": "Armagan Amcalar <armagan@amcalar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dashersw/kotelett/issues"
+  },
+  "homepage": "https://github.com/dashersw/kotelett#readme",
+  "dependencies": {
+    "cote": "^0.17.0"
+  },
+  "devDependencies": {
+    "await-sleep": "0.0.1"
+  }
+}
